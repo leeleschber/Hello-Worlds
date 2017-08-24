@@ -1,2 +1,3 @@
 # Hello-World
-Starting repository
+
+moon tacos, coffeescript and Node.js
